@@ -4,6 +4,7 @@
     {
         PrintMan();
         Console.ReadLine();
+
     }
 
     static void PrintMan() 
